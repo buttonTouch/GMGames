@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "GMGames"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "Gama games iOS SDK for developer"
 
   # This description is used to generate tags and improve search results.
