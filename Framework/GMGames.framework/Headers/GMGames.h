@@ -2,7 +2,7 @@
 //  GMGames.h
 //  GMGames
 //
-//  Created by Mgs on 2021/4/14.
+//  Created by Mgs on 2021/4/16.
 //
 
 #import <Foundation/Foundation.h>
@@ -14,6 +14,6 @@ FOUNDATION_EXPORT double GMGamesVersionNumber;
 FOUNDATION_EXPORT const unsigned char GMGamesVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <GMGames/PublicHeader.h>
-#import <GMGames/GamaTools.h>
-#import <GMGames/GamaCore.h>
+#import <GMGames/GamaTest.h>
+
 
