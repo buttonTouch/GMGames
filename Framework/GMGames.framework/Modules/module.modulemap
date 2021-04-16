@@ -1,0 +1,6 @@
+framework module GMGames {
+  umbrella header "GMGames.h"
+
+  export *
+  module * { export * }
+}
